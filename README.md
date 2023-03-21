@@ -21,10 +21,6 @@ We have sniffed an unsecured network and found numbers that are used to encrypt 
 ./<script> <Test Case>
 ```
 
-## KNOWN ISSUE :adhesive_bandage:
-
- - Not complete, still working on the task
-
 ### AUTHOR
 
-* [Nicks](https://github.com/nickssilver) :smiley_cat:
+* [MOB-MKO](https://github.com/MOB-MKO) :smiley_lion:
